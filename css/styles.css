@@ -25,3 +25,12 @@ body{
 .second-part{
   padding-top: 30px;
 }
+.third-part{
+  background-image: url("../img/backgrounds/s_image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.row{
+  padding
+}
