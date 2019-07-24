@@ -67,3 +67,9 @@ $(document).ready(function() {
     $('.hovertext8').hide();
   });
 });
+function contact(form) {
+  var name = document.forms["myform"]["fname"].value;
+  var email = document.forms["myform"]["email"].value;
+  var message = document.forms["myform"]["message"].value;
+  alert("Hi " + name + "," + " We have received your message. Thank you for reaching out to us. ");
+}
