@@ -70,3 +70,17 @@ button {
   margin-top: 30px;
   margin-bottom: 20px;
 }
+.design-text {
+  display: none;
+  padding: 5px;
+}
+
+.development-text {
+  display: none;
+  padding: 5px;
+}
+
+.product-text {
+  display: none;
+  padding: 5px;
+}
