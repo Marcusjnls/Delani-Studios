@@ -1,5 +1,5 @@
 body{
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 .container-fluid {
     padding-right:0;
@@ -65,4 +65,8 @@ button {
   margin-right: auto;
   float: none;
   margin-top: 100px;
+}
+.seventh-part {
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
