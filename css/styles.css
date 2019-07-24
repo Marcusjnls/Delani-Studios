@@ -95,3 +95,13 @@ button {
   top: 10%;
   left: 10%;
 }
+#form1 ::placeholder {
+  color: white;
+}
+#form1 input {
+  color: white;
+  background-color: transparent;
+}
+.footer{
+  text-align: center;
+}
